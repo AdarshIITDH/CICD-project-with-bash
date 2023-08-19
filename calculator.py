@@ -30,8 +30,8 @@ num2 = 4
 num3 = 25
 
 #printing the results
-print(f"{num1} + {num2} = {calculator.add(num1, num2)}")
-print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}")
-print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")
-print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
-print(f"The square root of {num3} = {calculator.square_root(num3)}")
+# print(f"{num1} + {num2} = {calculator.add(num1, num2)}")
+# print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}")
+# print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")
+# print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
+# print(f"The square root of {num3} = {calculator.square_root(num3)}")
