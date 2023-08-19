@@ -1,4 +1,4 @@
-#python code for calc
+#
 import math
 
 class Calculator:
