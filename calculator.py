@@ -1,6 +1,5 @@
 # code  new and working fine
-# new comment
-#new test
+
 import math
 
 class Calculator:
