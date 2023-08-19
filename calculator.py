@@ -1,4 +1,4 @@
-#python file
+#python file is calculating maths
 import math
 
 class Calculator:
