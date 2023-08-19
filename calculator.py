@@ -1,4 +1,4 @@
-#
+# code in new and working fine
 import math
 
 class Calculator:
