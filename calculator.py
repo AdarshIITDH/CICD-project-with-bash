@@ -26,6 +26,7 @@ num1 = 16
 num2 = 4
 num3 = 25
 
+#printing the results
 print(f"{num1} + {num2} = {calculator.add(num1, num2)}")
 print(f"{num1} - {num2} = {calculator.subtract(num1, num2)}")
 print(f"{num1} * {num2} = {calculator.multiply(num1, num2)}")
